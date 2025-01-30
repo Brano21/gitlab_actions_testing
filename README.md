@@ -27,4 +27,4 @@ I encountered an issue with permissions while setting up the GitHub Action for s
 1. Go to **Settings** → **Actions** → **General**.
 2. Change **Workflow permissions** to "Read and write permissions."
 
-For the sake of this project, this change was sufficient. However, it is possible to specify more granular permissions in the workflow using YAML.
+For this project, this change was sufficient. However, you can specify more granular permissions in the workflow using YAML.
